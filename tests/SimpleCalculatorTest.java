@@ -1,6 +1,6 @@
 package CIS;
 
-import java.util.*;
+
 import static org.junit.Assert.*;
 import org.junit.*;
 public class SimpleCalculatorTest {
